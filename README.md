@@ -28,7 +28,7 @@
 
 <td align="center" style="padding:0;width:50%;">
 
-<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=Shadeslayer4096&show_icons=true&theme=dark&hide=issues&hide_border=true" alt="Github Stats" />
+<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=Shadeslayer4096&show_icons=true&theme=dark&hide_border=false" alt="Github Stats" />
 
 </td>
 
