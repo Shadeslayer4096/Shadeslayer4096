@@ -33,11 +33,13 @@
 
 <br>
 <h3 align = "left">About me</h3>
+<p align = "left">
 - ⚙️ I’m currently working on **Izumi(A Discord.js bot)**.
 
 - 📚 I’m currently learning **Node.js**.
 
 - ❓ Ask me about **HTML,CSS**.
+  </p>
 
 <h3 align="left">Connect with me 💬</h3>
 
