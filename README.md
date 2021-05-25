@@ -1,7 +1,12 @@
 <h1 align="center">Hello there 👋 ,I am Naryani Priya!</h1>
 
 <h3 align="center">A curious learner.</h3>
+<h3 align="left" >About me</h3>
+- ⚙️ I’m currently working on **Izumi(A Discord bot)**
 
+- 📚 I’m currently learning **Node.js**
+
+- ❓ Ask me about **HTML,CSS**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=2c6fdb&style=flat" alt="Shadeslayer4096" /> </p>
 <h3 align="left"> 📊 My Github statistics :- 
   
