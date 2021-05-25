@@ -42,9 +42,6 @@
 </tr>
 
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadeslayer4096&show_icons=true&locale=en&layout=compact" alt="Shadeslayer4096" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shadeslayer4096&show_icons=true&locale=en" alt="Shadeslayer4096" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&" alt="Shadeslayer4096" /></p>
 
