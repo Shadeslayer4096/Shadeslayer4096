@@ -32,13 +32,11 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
 
 
-<h3 align="left">
 - ⚙️ I’m currently working on **Izumi(A Discord.js bot)**.
 
 - 📚 I’m currently learning **Node.js**.
 
 - ❓ Ask me about **HTML,CSS**.
-</h3>
 
 <h3 align="left">Connect with me 💬</h3>
 
