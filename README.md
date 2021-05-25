@@ -3,11 +3,11 @@
 <h3 align="center">A curious learner.</h3>
 <h3 align="left" >ℹ️ About me :</h3>
 
-- ⚙️ I’m currently working on **Izumi(A Discord bot)**
+- ⚙️ I’m currently working on **Izumi(A Discord bot)**.
 
-- 📚 I’m currently learning **Node.js**
+- 📚 I’m currently learning **Node.js**.
 
-- ❓ Ask me about **HTML,CSS**
+- ❓ Ask me about **HTML,CSS**.
 
 
 <h3 align="left"> 📊 My Github statistics :</h3>
