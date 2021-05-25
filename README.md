@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=2c6fdb&style=flat" alt="Shadeslayer4096" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shadeslayer4096&column=3&margin-w=15&margin-h=15&theme=darkhub" alt="Shadeslayer4096" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shadeslayer4096&column=3&margin-w=12&margin-h=12&theme=darkhub" alt="Shadeslayer4096" /></a> </p>
 
 - ⚙️ I’m currently working on **Izumi(A Discord.js bot)**.
 
