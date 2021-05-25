@@ -38,8 +38,8 @@
  - 📚 I’m currently learning **Node.js**.
 
  - ❓ Ask me about **HTML,CSS**.
-  </p
-<h3 align="left">Connect with me 💬</h3>
+ 
+<h3 align="left">Connect with me💬</h3>
 
 <a href="https://discord.gg/c33Et4mWWG" target="blank"><img align="center" src="https://discord.com/api/guilds/819977413743607858/embed.png" alt="https://discord.gg/cc33Et4mWWG" height="30" width="40" /></a>
 
