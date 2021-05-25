@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shadeslayer4096" alt="Shadeslayer4096" /></a> </p>
 
-- 🔭 I’m currently working on **Izumi(A Discord bot)**
+- ⚙️ I’m currently working on **Izumi(A Discord bot)**.
 
-- 📚 I’m currently learning **Node.js**
+- 📚 I’m currently learning **Node.js**.
 
-- ❓ Ask me about **HTML,CSS**
+- ❓ Ask me about **HTML,CSS**.
 
 <h3 align="left">Languages and Tools:</h3>
 
