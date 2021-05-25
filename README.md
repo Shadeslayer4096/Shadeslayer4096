@@ -40,6 +40,7 @@
 <br>
 <h3 align = "left">ℹ️ About me</h3>
 <p align = "left">
+  
 - ⚙️ I’m currently working on **Izumi(A Discord.js bot)**.
 
 - 📚 I’m currently learning **Node.js**.
