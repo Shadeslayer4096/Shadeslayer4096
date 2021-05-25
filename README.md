@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 ,I am Naryani Priya!</h1>
+<h1 align="center">Hello there 👋, I am Naryani Priya!</h1>
 
 <h3 align="center">A curious learner.</h3>
 <h3 align="left" >ℹ️ About me :</h3>
