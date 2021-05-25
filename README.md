@@ -3,9 +3,30 @@
 <h3 align="center">A curious learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=2c6fdb&style=flat" alt="Shadeslayer4096" /> </p>
-
+<h3 align="center"> 📊 My Github statistics :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shadeslayer4096&column=3&margin-w=12&margin-h=12&theme=darkhub" alt="Shadeslayer4096" /></a> </p>
+  
 
+<table>
+
+<tr>
+
+<td align="center" style="padding:0;width:50%;">
+
+<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=Shadeslayer4096&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
+
+</td>
+
+<td align="center" style="padding:0;width:50%;"td>
+
+<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadeslayer4096" alt="My langs"/>
+
+</td>
+
+</tr>
+
+</table>
+</h3>
 - ⚙️ I’m currently working on **Izumi(A Discord.js bot)**.
 
 - 📚 I’m currently learning **Node.js**.
