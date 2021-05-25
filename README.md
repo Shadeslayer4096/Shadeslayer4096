@@ -42,6 +42,6 @@
 
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=github_dark" alt="Shadeslayer4096" /></p>
 
 
