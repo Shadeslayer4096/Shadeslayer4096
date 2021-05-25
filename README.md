@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋,I am Naryani Priya!</h1>
 
-<h3 align="center">A Discord.js Bot developer.</h3>
+<h3 align="center">A curious learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=0e75b6&style=flat" alt="Shadeslayer4096" /> </p>
 
