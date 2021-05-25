@@ -2,7 +2,7 @@
 
 <h3 align="center">A curious learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=0e75b6&style=flat" alt="Shadeslayer4096" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=2c6fdb&style=flat" alt="Shadeslayer4096" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shadeslayer4096" alt="Shadeslayer4096" /></a> </p>
 
