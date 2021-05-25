@@ -40,11 +40,9 @@
   
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
-<br></br>
 
 
 
-  <br></br>
 <h3 align="left"> 💬 Connect with me </h3>
 <h4 align="left">Join my server</h4>
 <p align="left">
