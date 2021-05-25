@@ -26,6 +26,9 @@
 </tr>
 
 </table>
+  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
 </h3>
 - ⚙️ I’m currently working on **Izumi(A Discord.js bot)**.
 
@@ -41,27 +44,3 @@
 <h3 align="left">Languages</h3>
 
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<table>
-
-<tr>
-
-<td align="center" style="padding:0;width:50%;">
-
-<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=Shadeslayer4096&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
-
-</td>
-
-<td align="center" style="padding:0;width:50%;"td>
-
-<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadeslayer4096" alt="My langs"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
-
-
