@@ -39,7 +39,7 @@
 </table>
   
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Shadeslayer4096&hide_border=true&theme=darkhub" />
-  <br>
+  <br></br>
   </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
 
