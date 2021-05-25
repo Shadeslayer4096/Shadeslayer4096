@@ -45,7 +45,7 @@
 <h3 align="left"> Connect with me💬 </h3>
 
 <p align="left">
-<a href="https://discord.gg/c33Et4mWWG" target="blank"><img align="center" src="https://discord.com/api/guilds/819977413743607858/embed.png" alt="https://discord.gg/cc33Et4mWWG" height="50" width="200" /></a>
+<a href="https://discord.gg/c33Et4mWWG" target="blank"><img align="center" src="https://discord.com/api/guilds/819977413743607858/embed.png" alt="https://discord.gg/cc33Et4mWWG" height="35" width="200" /></a>
 </p>
 
 
