@@ -10,7 +10,8 @@
 - ❓ Ask me about **HTML,CSS**
 
 
-<h3 align="left"> 📊 My Github statistics :- 
+<h3 align="left"> 📊 My Github statistics :</h3>
+  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shadeslayer4096&label=Profile%20views&color=2c6fdb&style=flat" alt="Shadeslayer4096" /> </p>
   
@@ -39,7 +40,7 @@
   
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
-  </h3>
+  
 <h3 align="left">Connect with me💬</h3>
 
 <a href="https://discord.gg/c33Et4mWWG" target="blank"><img align="center" src="https://discord.com/api/guilds/819977413743607858/embed.png" alt="https://discord.gg/cc33Et4mWWG" height="30" width="40" /></a>
