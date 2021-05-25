@@ -15,7 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[Discord](https://discord.com/api/guilds/254360814063058944/embed.png)
+#[![Discord](https://discord.com/api/guilds/819977413743607858/embed.png)](https://discord.gg/33Et4mWWG)
+
 <a href="https://discord.gg/33Et4mWWG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="33Et4mWWG" height="30" width="40" /></a>
 
 
