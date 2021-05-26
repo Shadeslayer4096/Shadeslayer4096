@@ -51,6 +51,7 @@
 <a href="https://discord.gg/c33Et4mWWG" target="blank"><img align="center" src="https://discord.com/api/guilds/819977413743607858/embed.png" alt="https://discord.gg/cc33Et4mWWG" height="35" width="200" /></a>
 </p>
 <br>
+<br>
 <h3 align="left">👩‍💻 Languages</h3>
 
 <p align="left"> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -72,4 +73,4 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
-<d
+
