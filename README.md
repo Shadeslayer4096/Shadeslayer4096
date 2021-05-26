@@ -45,13 +45,13 @@
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Shadeslayer4096&hide_border=true&theme=darkhub" />
 <br></br>
 <br></br>
+<br></br>
 <h3 align="left"> 💬 Connect with me </h3>
 <h4 align="left">Join my server</h4>
 <p align="left">
 <a href="https://discord.gg/c33Et4mWWG" target="blank"><img align="center" src="https://discord.com/api/guilds/819977413743607858/embed.png" alt="https://discord.gg/cc33Et4mWWG" height="35" width="200" /></a>
 </p>
-<br>
-<br>
+
 <h3 align="left">👩‍💻 Languages</h3>
 
 <p align="left"> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
