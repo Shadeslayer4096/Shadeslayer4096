@@ -41,16 +41,14 @@
   
 
   </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p><br></br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadeslayer4096&theme=dark" alt="Shadeslayer4096" /></p>
 
 
 
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Shadeslayer4096&hide_border=false&theme=darkhub" />
   <br></br>
-<br></br>
-<br></br>
-<br></br>
+
 
 
 <h3 align="left"> 💬 Connect with me </h3>
