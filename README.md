@@ -46,7 +46,7 @@
 
 
 
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Shadeslayer4096&hide_border=true&theme=darkhub" />
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Shadeslayer4096&hide_border=false&theme=darkhub" />
   <br></br>
 <br></br>
 <br></br>
